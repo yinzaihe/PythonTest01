@@ -4,4 +4,12 @@ haha
 
 push ->
 
+pushpush!
 
+
+
+push는 아무변화없음
+
+DESK TOP -> github
+
+pullpull!
